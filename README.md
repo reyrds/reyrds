@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Rey
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Data Science Related Skills, Frameworks, Concepts, & Theories
+- 📫 You can reach me via email: racazareyn@gmail.com
+- ⚡ Fun fact: I graduated with a bachelor's degree in Industrial Engineering, and a graduate scholar of the Department of Science and Technology.
